@@ -2,6 +2,15 @@
     padding: 0px;
     margin: 0px;
 }
-.rightbox{
+
+.container{
     display: flex;
+    width: 1080px;
+    height: 900px;
+}
+.leftside{
+
+}
+.rightside{
+
 }
